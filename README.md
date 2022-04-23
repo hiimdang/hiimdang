@@ -1,1 +1,1 @@
-[![hiimdang](dino.gif)](https://hiimdang.github.io/hiimdang)
+[![hiimdang](nyancat.gif)](https://hiimdang.github.io/hiimdang)

@@ -4,7 +4,6 @@ I'm [Kaakou aka Đăn](https://www.facebook.com/hiimdang18). I'm the student at 
 You can follow me on: [Facebook](https://www.facebook.com/hiimdang18/) – [Twitter](https://twitter.com/_hiimdang)
 
 ### Latest projects:
-- [pacat](https://hiimdang.github.io/pacat/pacat) - A game like pacman
 - ...
 
 [![hiimdang](tonton.gif)](https://hiimdang.github.io/hiimdang) 

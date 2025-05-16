@@ -1,10 +1,10 @@
 Hi :>
-I'm [Kaakou aka Đăn aka Quýt](https://www.facebook.com/hiimdang18). I'm the student at [HUFI](https://www.facebook.com/TuyensinhHUFI) -  Ho Chi Minh City University of Food Industry. I was born in 2004. Contacting with transitions and keyframe animations, my interest in coding is getting bigger and bigger.
+Em là [Đăng aka Quýt](https://www.facebook.com/hiimdang18). Em là sinh viên năm 3 tại [HUIT - Trường Đại học Công Thương TP. Hồ Chí Minh](https://www.facebook.com/DhCongThuongHCM) 
 
-You can follow me on: [Facebook](https://www.facebook.com/hiimdang18/) – [Twitter](https://twitter.com/_hiimdang)
+Có thể liên hệ với em qua [Facebook](https://www.facebook.com/hiimdang18/) – Discord (@justaflan_18)
 
 ### Latest projects:
-- ...
+- Sylvia Discord Bot
 
 [![hiimdang](tonton.gif)](https://hiimdang.github.io/hiimdang) 
 <br>
